@@ -7,7 +7,7 @@ The ChatPDF App is a Python application that allows you to chat with multiple PD
 ## How It Works
 ------------
 
-![ChatPDF App Diagram](./docs/PDF-LangChain.jpg)
+![ChatPDF App Diagram](./PDF-LangChain.jpg)
 
 The application follows these steps to provide responses to your questions:
 
