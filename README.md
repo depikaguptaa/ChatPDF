@@ -1,7 +1,7 @@
 # ChatPDF
 
 ## Depolyed Here
-[Live Link](https://chatwithyourpdfs.streamlit.app)
+You can view the [Live Link](https://chatwithyourpdfs.streamlit.app) here.
 
 ## Introduction
 ------------
